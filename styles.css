@@ -98,7 +98,7 @@ justify-content: space-between;
     margin-top: 10px;
     display: none;
 }
-   @media (max-width: 768px) {
+   @media (max-width: 900px) {
     .card {
       max-width: 100%;
     }
